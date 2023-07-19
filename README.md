@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a software developer from Colombia. 🇨🇴
+
+You can find me on:
+- [Linkedin] - Linkedin
+
+[//]: # (These are reference links used in the body of this note)
+
+   [Linkedin]: <https://www.linkedin.com/in/stevenmedinadev/)https://www.linkedin.com/in/stevenmedinadev/>
+
 <!--
 **StevenMedina/StevenMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
