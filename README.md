@@ -3,13 +3,13 @@
 I'm a software developer from Colombia. 🇨🇴
 
 You can find me on:
-- [Linkedin] - Linkedin
+- [Linkedin] - [LinkedIn](https://www.linkedin.com/in/stevenmedinadev/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sweetook&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sweetook&redirect=true)
 
 [//]: # (These are reference links used in the body of this note)
 
-[LinkedIn](https://www.linkedin.com/in/stevenmedinadev/)
+
 
 <!--
 **StevenMedina/StevenMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
